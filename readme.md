@@ -58,9 +58,8 @@ A partir do momento que você inicia o prometheus e o grafana, já tem alguns da
 ### Dashboards exemplos:
 
 ![exemplo](images/Captura%20de%20tela%20de%202022-06-09%2014-16-18.png)
-*clique em DASHBOARD e você verá todos existentes no seu grafana*
 
-![exemplo2](images/exemplo2.png)
+*clique em DASHBOARD e você verá todos existentes no seu grafana*
 
 Por outro lado, existem opções de personalizar um  dashboard de acordo com sua preferência, ou copiar repositórios prontos.
  Neste link você encontra várias opções de dashboards prontos
